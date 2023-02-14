@@ -1,0 +1,15 @@
+#name{
+text-align: center;
+font-family: monospace;
+}
+.info{
+width: auto;
+}
+.link{
+width: auto;
+color:#86deb7 ;
+}
+body{
+  background-color:#423e28;
+  text-align: center;
+}
