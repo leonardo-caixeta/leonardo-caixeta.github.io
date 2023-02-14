@@ -1,0 +1,28 @@
+#name{
+text-align: center;
+font-family: monospace;
+color:#63b995;
+}
+.info{
+
+color:#63b995;
+font-size: 39px;
+}
+.link{
+
+color:#86deb7;
+font-size: 42px;
+}
+body{
+  background-color:#423e28;
+  text-align: center;
+}
+#info-{
+  color:#50723c;
+
+  text-align: end;
+  font-size: 11px;
+}
+#shape{
+  width: 65%;
+}
